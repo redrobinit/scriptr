@@ -1,1 +1,1 @@
-# scriptr
+SCRIPTR
